@@ -1,0 +1,27 @@
+div {
+    width: 50%;
+}
+
+#div1 {
+    margin-bottom: 20px;
+}
+#div2 {
+    background-color: green;
+}
+
+.container {
+    border: 2px solid black;
+
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+}
+
+.list li {
+    border: 1px solid white;
+    display: block;
+    height: 25px;
+    list-style: none;
+}
